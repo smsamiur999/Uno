@@ -1,0 +1,6 @@
+{
+  "name": "UNO Arena: House Rules",
+  "description": "Multiplayer UNO card game with customizable house rules, online lobbies, smart bots, and vibrant card play.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
